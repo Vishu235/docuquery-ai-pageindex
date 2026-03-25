@@ -1,11 +1,5 @@
 # DocuQuery PageIndex
 
-**Suggested GitHub repository name:** `docuquery-pageindex`
-
-**Suggested GitHub About:** Streamlit app for PDF upload, PageIndex-powered retrieval, and grounded document Q&A.
-
-**Suggested GitHub topics:** `streamlit`, `pageindex`, `pdf`, `document-qa`, `retrieval-augmented-generation`, `python`
-
 This project provides a Streamlit frontend for PageIndex where you can:
 
 - Upload one or more PDF files
