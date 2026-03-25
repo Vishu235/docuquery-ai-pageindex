@@ -1,0 +1,38 @@
+# Secrets and protected configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+pi_env/
+.venv/
+venv/
+env/
+
+# Jupyter and notebook artifacts
+.ipynb_checkpoints/
+
+# Local app/runtime artifacts
+.pageindex_doc_cache.json
+*.docid
+*.log
+tmp/
+temp/
+
+# IDE/editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
